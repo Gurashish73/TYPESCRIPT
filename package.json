@@ -13,5 +13,13 @@
   "type": "commonjs",
   "devDependencies": {
     "typescript": "^6.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gurashish73/TYPESCRIPT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gurashish73/TYPESCRIPT/issues"
+  },
+  "homepage": "https://github.com/Gurashish73/TYPESCRIPT#readme"
 }
