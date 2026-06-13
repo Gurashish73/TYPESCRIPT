@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+
+# Compiled JavaScript (TypeScript output)
+# Note: Change "dist/" to whatever your outDir is in tsconfig.json (e.g., build/)
+dist/
+build/
+
+# Environment variables (Secrets/Passwords)
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
